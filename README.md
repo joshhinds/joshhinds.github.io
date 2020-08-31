@@ -1,3 +1,3 @@
 # joshhinds.github.io
-GitHub page: Josh Hinds <br /> <br />
-This page will be updated soon.
+<p>GitHub page: Josh Hinds </p>
+<p>This page will be updated soon.</p>
