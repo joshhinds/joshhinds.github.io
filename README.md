@@ -1,3 +1,3 @@
 # joshhinds.github.io
-My GitHub page
-I will be using this for my GitHub page.
+GitHub page: Josh Hinds
+This page will be updated soon.
