@@ -6,6 +6,8 @@ filename: learn-seo.md
 
 ---
 
+<b>Menu:</b> <a href=""/">Home</a>
+
 # Learn SEO (Search Engine Optimization)
 
 There are no shortage of places or people promising to teach you SEO. The challenge is finding the folks actually worth listening to and learning from.
