@@ -5,11 +5,11 @@
 
 There are no shortage of places or people promising to teach you SEO. The challenge is finding the folks actually worth listening to and learning from.
 
-While I have been doing SEO going back to before it was even "officially" called "SEO" -- back when I got started we just used to call it getting real life people visit
-our websites without having to pay money in order to do so. That was a good thing -- because most of the paid traffic options of today weren't an option back then :-)
+While I have been doing SEO going back to before it was even "officially" called "SEO" -- back when I got started we used to just call it getting real life people to visit
+our websites without having to pay money in order to do so. That was a good thing -- because most of the paid traffic options of today weren't even an option back then :-)
 
 That said, I don't think you should try and learn Search Engine Optimization from me -- not me alone anyway. Instead, I'll use this space to showcase the people, posts, 
-and resources that I think are worth your time to learn. That certainly doesn't mean I'll get it right 100% of the time. I bet I don't get close, but hopefully you'll find
+and resources that I think are worth your time to learn from. That certainly doesn't mean I'll get it right 100% of the time. I bet I don't even get close to 100% right, but hopefully you'll find
 value in the information shared here just the same.
 
 ## Let's group SEO into 3 major categories:
