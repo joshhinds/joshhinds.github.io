@@ -1,7 +1,7 @@
 ---
 title: Learn how to do SEO
 layout: template
-filename: learn-seo.md
+filename: /learn-seo.md
 ---
 
 # Learn SEO (Search Engine Optimization)
