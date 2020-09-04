@@ -38,3 +38,5 @@ Choose one of the itemx below to get stated!
 
 * All Ecompassing SEO Guides
   - <a href="https://moz.com/beginners-guide-to-seo">Moz - Beginner's Guide to SEO</a>
+  - <a href="https://ahrefs.com/blog/learn-seo/">Ahrefs: How to Learn SEO</a>
+  - <a href="https://support.google.com/webmasters/answer/7451184?hl=en">Google: Search Engine Optimization (SEO) Starter Guide</a>
