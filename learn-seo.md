@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-slate
 title: Learn how to do SEO
-layout: template
+layout: jekyll-theme-slate
 filename: /learn-seo.md
 ---
 
