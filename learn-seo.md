@@ -39,3 +39,7 @@ Choose one of the items below to get stated!
   - <a href="https://moz.com/beginners-guide-to-seo">Moz - Beginner's Guide to SEO</a>
   - <a href="https://ahrefs.com/blog/learn-seo/">Ahrefs: How to Learn SEO</a>
   - <a href="https://support.google.com/webmasters/answer/7451184?hl=en">Google: Search Engine Optimization (SEO) Starter Guide</a>
+
+
+<hr>
+Want to connect? Do so on <a href="https://www.linkedin.com/in/joshhinds">My LinkedIn page</a> (be sure to mention you found me here) 
