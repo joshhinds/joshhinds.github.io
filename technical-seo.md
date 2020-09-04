@@ -12,8 +12,8 @@ The first thing you learn as you get into technical search engine optimization i
 
 
 * People to follow for technical SEO advice
-    - <a href"https://twitter.com/hamletbatista">Hamlet Batista</a> on Twitter
-        - <a href"https://www.searchenginejournal.com/author/hamlet-batista/">SearchEngineJournal posts by Hamlet Batista</a>
+    - <a href="https://twitter.com/hamletbatista">Hamlet Batista</a> on Twitter
+        - <a href="https://www.searchenginejournal.com/author/hamlet-batista/">SearchEngineJournal posts by Hamlet Batista</a>
     
     - JR Oaks
 
