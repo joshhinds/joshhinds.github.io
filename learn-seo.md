@@ -22,9 +22,8 @@ Of course there's tons of overlap in the three categories and you may well find 
 be an exhaustive resource for learning search engine optimization. Anyone promising that -- run! I do think it'll be worth checking out often and hopefully sharing with others.
 
 One important point before I continue -- when I refer to the work I do in the area of SEO, I always make the point to say "SEO & organic traffic strategy." 
-Why the end part? Because search engine optimization refers to what happens i "traditional search engines" -- while super important to focus on it's also incredibly 
-important to learn all about the vast number of other organic sources of traffic (i.e. non-paid) which can include the likes of Reddit, The social media platforms, Google Discover, 
-and many more that can lead to great visibility without having to pay, yet aren't search engines (at least not how one traditionally thinks of them).
+Why the end part? Because search engine optimization refers to what happens in "traditional search engines" -- while super important to focus on it's also incredibly 
+important to learn all about the vast number of other organic sources of traffic (i.e. non-paid) which can include the likes of Reddit, the various social media platforms, Google Discover, and many more that can lead to great visibility without having to pay, yet aren't search engines (at least not how one traditionally thinks of them).
 
 ## Ready to begin learning SEO? 
 Choose one of the items below to get stated!
