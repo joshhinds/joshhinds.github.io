@@ -1,8 +1,10 @@
 <b>Menu: </b> <a href="learn-seo" title="How to learn SEO">Learn SEO</a>
 <hr>
 <p>
-<p>I don't have much here at the moment. Check in every so often as I'm sure I will 
-update it with random projects or noteworthy items as they pop up.</p>
+<p>The plan is to build out a comprehensive resource for 
+those interested in learning search engine optimization (SEO) and 
+organic traffic strategy. Remember, organic traffif refers to non-paid traffic. Check in every so often as I expect this guide to grow overtime. 
+</p>
 <p>You can also learn more about what I'm up to on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a>.</p>
 <p>
 <strong>Interests:</strong> 
