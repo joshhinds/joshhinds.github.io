@@ -8,17 +8,15 @@ The first thing you learn as you get into technical search engine optimization i
 ## Technical SEO Training Resources
 
 
-* Guides
+* Guides:
 
 
-* People to follow for technical SEO advice
-    
+* People to follow for technical SEO advice:
     - <a href="https://g.co/kgs/PJznys">Hamlet Batista</a> (G search results on him) <a href="https://twitter.com/hamletbatista">on Twitter</a>, <a href="https://www.searchenginejournal.com/author/hamlet-batista/">SearchEngineJournal posts by Hamlet</a>
-    
     - <a href="https://github.com/jroakes?tab=repositories">JR Oakes</a> (GitHub) & <a href="https://searchengineland.com/author/jr-oakes">SearchEngineLand posts by JR Oakes</a>
 
 
-* Tutorials, Videos, and Articles on Technical SEO
+* Tutorials, Videos, and Articles on Technical SEO:
 
 
 
