@@ -33,3 +33,8 @@ Choose one of the sub-categories below to learn all about it!
 * <a href="technical-seo" title="Learn Technical SEO">Technical SEO</a>
 * Off-page SEO
 * Organic Traffic Strategy (not always specific to SEO, but important because it's part of the larger non-paid traffic discussion)
+
+* <a href="https://twitter.com/i/lists/225581017">SEO Experts twitter list</a>
+
+* All Ecompassing SEO Guides
+  - <a href="https://moz.com/beginners-guide-to-seo">Moz - Beginner's Guide to SEO</a>
