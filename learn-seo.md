@@ -27,12 +27,12 @@ important to learn all about the vast number of other organic sources of traffic
 and many more that can lead to great visibility without having to pay, yet aren't search engines (at least not how one traditionally thinks of them).
 
 ## Ready to begin learning SEO? 
-Choose one of the sub-categories below to learn all about it!
+Choose one of the itemx below to get stated!
 
 * On-page SEO
 * <a href="technical-seo" title="Learn Technical SEO">Technical SEO</a>
 * Off-page SEO
-* Organic Traffic Strategy (not always specific to SEO, but important because it's part of the larger non-paid traffic discussion)
+* Organic Traffic Strategy (not specific to SEO, but important because it's part of the larger non-paid traffic discussion)
 
 * <a href="https://twitter.com/i/lists/225581017">SEO Experts twitter list</a>
 
