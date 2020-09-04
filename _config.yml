@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Josh Hinds - GitHub page
 description: Project Updates, Happenings, and More!
+baseurl: ""
+url: "https://joshhinds.github.io"
