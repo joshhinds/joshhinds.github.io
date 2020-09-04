@@ -27,7 +27,7 @@ important to learn all about the vast number of other organic sources of traffic
 and many more that can lead to great visibility without having to pay, yet aren't search engines (at least not how one traditionally thinks of them).
 
 ## Ready to begin learning SEO? 
-Choose one of the itemx below to get stated!
+Choose one of the items below to get stated!
 
 * On-page SEO
 * <a href="technical-seo" title="Learn Technical SEO">Technical SEO</a>
