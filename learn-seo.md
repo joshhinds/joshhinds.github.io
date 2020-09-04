@@ -1,12 +1,5 @@
----
-theme: jekyll-theme-slate
-title: Learn how to do SEO
-layout: jekyll-theme-slate
-filename: learn-seo.md
-
----
-
-<b>Menu:</b> <a href=""/">Home</a>
+<b>Menu:</b> <a href="/">Home</a>
+<hr>
 
 # Learn SEO (Search Engine Optimization)
 
