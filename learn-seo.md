@@ -1,6 +1,8 @@
-layout: page
+---
 title: Learn how to do SEO
-permalink: /
+layout: template
+filename: learn-seo.md
+---
 
 # Learn SEO (Search Engine Optimization)
 
