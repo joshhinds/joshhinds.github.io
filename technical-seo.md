@@ -17,9 +17,8 @@ The first thing you learn as you get into technical search engine optimization i
         -- <a href="https://twitter.com/hamletbatista">Hamlet Batista</a> on Twitter
         -- <a href="https://www.searchenginejournal.com/author/hamlet-batista/">SearchEngineJournal posts by Hamlet Batista</a>
     
-    - JR Oaks
-
-    - Scott Stouffer
+    - <a href="https://github.com/jroakes?tab=repositories">JR Oakes</a>
+        -- <a href="https://searchengineland.com/author/jr-oakes">SearchEngineLand posts by JR Oakes</a>
 
 
 * Tutorials, Videos, and Articles on Technical SEO
