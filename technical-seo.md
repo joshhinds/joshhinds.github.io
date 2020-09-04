@@ -1,4 +1,4 @@
-<b>Menu:</b> <a href="/">Home</a> | <a href="learn-seo-.html">Learn SEO</a>
+<b>Menu:</b> <a href="/">Home</a> | <a href="learn-seo">Learn SEO</a>
 <hr>
 
 # Resources to Learn Technical SEO
