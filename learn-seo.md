@@ -1,3 +1,7 @@
+layout: page
+title: Learn how to do SEO
+permalink: /
+
 # Learn SEO (Search Engine Optimization)
 
 There are no shortage of places or people promissing to teach you SEO. The challenge is finding the folks actually worth listening to and learning from.
