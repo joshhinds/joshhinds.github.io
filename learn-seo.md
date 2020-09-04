@@ -36,10 +36,14 @@ Choose one of the items below to get stated!
 * <a href="https://twitter.com/i/lists/225581017">SEO Experts twitter list</a>
 
 * All Encompassing SEO Guides
-  - <a href="https://moz.com/beginners-guide-to-seo">Moz - Beginner's Guide to SEO</a>
+  - <a href="https://www.contentkingapp.com/academy/seo-guide/">Content King: The Beginner’s Guide to SEO</a>
+  - <a href="https://moz.com/beginners-guide-to-seo">Moz: Beginner's Guide to SEO</a>
   - <a href="https://ahrefs.com/blog/learn-seo/">Ahrefs: How to Learn SEO</a>
+  - <a href="https://www.semrush.com/blog/what-is-seo/">SEMrush: What is SEO? A Beginner’s Guide to Search Engine Optimization</a>
+  - <a href="https://searchengineland.com/guide/seo">SearchEngineLand: Essential Guide to SEO: Master the science of SEO</a>
+  - <a href="https://www.searchenginejournal.com/seo-guide/">SearchEngineJournal: A Complete Guide to SEO: What You Need to Know</a>
   - <a href="https://support.google.com/webmasters/answer/7451184?hl=en">Google: Search Engine Optimization (SEO) Starter Guide</a>
-
+  
 
 <hr>
 Want to connect? Do so on <a href="https://www.linkedin.com/in/joshhinds">My LinkedIn page</a> (be sure to mention you found me here) 
