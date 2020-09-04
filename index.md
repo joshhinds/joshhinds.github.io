@@ -1,4 +1,5 @@
 <b>Menu: </b> <a href="learn-seo" title="How to learn SEO">Learn SEO</a>
+<hr>
 
 <h1>Josh Hinds' GitHub page</h1> 
 
