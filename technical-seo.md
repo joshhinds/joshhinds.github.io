@@ -19,9 +19,10 @@ The first thing you learn as you get into technical search engine optimization i
     - <a href="https://www.linkedin.com/in/slawski/">Bill Slawski</a>, <a href="https://www.searchenginejournal.com/author/bill-slawski/">Search Engine Journal posts by Bill</a>
     - <a href="https://www.youtube.com/user/stonetemplecons">Eric Enge</a>, <a href="https://searchengineland.com/author/eric-enge">Eric's Search Engine Land Posts</a>
     - <a href="https://twitter.com/TomekRudzki">Tomek Rudzki</a> 
+    - <a href="https://www.linkedin.com/in/barryadams/">Barry Adams</a> - <a href="https://searchengineland.com/author/barry-adams">articles by Barry</a>
     - Martin Splitt - <a href="https://www.botify.com/blog/martin-splitt-javascript-rendering">JavaScript Rendering Q&A With Google’s Martin Splitt</a>
     - <a href="https://twitter.com/patrickstox">Patrick Stox</a>, <a href="https://searchengineland.com/author/patrick-stox">Patrick's posts from search engine land</a>
-    - 
+    - <a href="https://twitter.com/Kevin_Indig">Kevin Indig</a>
 
 
 * Tutorials, Videos, and Articles on Technical SEO:
