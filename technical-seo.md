@@ -28,6 +28,7 @@ The first thing you learn as you get into technical search engine optimization i
     - <a href="https://www.onely.com/blog/">Onely blog - lots of tech seo focused posts. JavaScript SEO, rendering issues, etc.
     - <a href="https://youtu.be/7J-8Y529-WE">Google's Martin Splitt on how the search engine crawls and indexes (video: interview)
     - <a href="https://youtu.be/GdCBkX5mm2U">Javascript: What SEOs need to know</a> (video: Google's John Mueller & Martin Splitt)
+    - <a href="https://www.youtube.com/playlist?list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9">JavaScript SEO series with Martin Splitt</a> (videos)
 
 <hr>
 Connect with me on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here)
