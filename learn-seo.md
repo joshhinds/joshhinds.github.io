@@ -1,6 +1,6 @@
 <b>Menu:</b> <a href="/">Home</a>
 <hr>
-<strong>Quick Navigation</strong>: <a href="#learn-seo-tutorial">Begin learning all about SEO</a>
+<strong>Quick Navigation</strong>: <a href="#seo-training">Begin learning all about SEO</a>
 
 # Learn SEO (Search Engine Optimization)
 
@@ -26,7 +26,7 @@ One important point before I continue -- when I refer to the work I do in the ar
 Why the end part? Because search engine optimization refers to what happens in "traditional search engines" -- while super important to focus on it's also incredibly 
 important to learn all about the vast number of other organic sources of traffic (i.e. non-paid) which can include the likes of Reddit, the various social media platforms, Google Discover, and many more that can lead to great visibility without having to pay, yet aren't search engines (at least not how one traditionally thinks of them).
 
-<h2 id="learn-seo-tutorial">Ready to begin learning SEO?</h2> 
+<h2 id="seo-training">Ready to begin learning SEO?</h2> 
 Choose one of the items below to get stated!
 
 * On-page SEO
