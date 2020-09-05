@@ -26,6 +26,8 @@ The first thing you learn as you get into technical search engine optimization i
     - <a href="https://moz.com/blog/category/technical-seo">Moz: Technical SEO articles</a>
     - <a href="https://www.onely.com/resources/">Onely resources section</a>: includes articles, whitepapers, knowledge-packed decks, and informative videos.
     - <a href="https://www.onely.com/blog/">Onely blog - lots of tech seo focused posts. JavaScript SEO, rendering issues, etc.
+    - <a href="https://youtu.be/7J-8Y529-WE">Google's Martin Splitt on how the search engine crawls and indexes (video: interview)
+    - <a href="https://youtu.be/GdCBkX5mm2U">Javascript: What SEOs need to know</a> (video: Google's John Mueller & Martin Splitt)
 
 <hr>
 Connect with me on <a href="https://www.linkedin.com/in/joshhinds">My LinkedIn page</a> (be sure to mention you found me here)
