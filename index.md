@@ -1,4 +1,4 @@
-<b>Menu: </b> <a href="learn-seo" title="How to learn SEO">Learn SEO</a> (start page) - <a href="technical-seo">Technical SEO</a> | <a href=”on-page-seo”>On-Page SEO</a> - Off-Page SEO
+<b>Menu: </b> <a href="learn-seo" title="How to learn SEO">Learn SEO</a> (start page) - <a href="technical-seo">Technical SEO</a> | <a href=”on-page-seo”>On-Page SEO</a> | Off-Page SEO
 <hr>
 <p>The plan is to build out a comprehensive resource for 
 those interested in learning search engine optimization (SEO) and 
