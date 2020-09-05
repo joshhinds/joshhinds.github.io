@@ -7,6 +7,8 @@
 The first thing you learn as you get into technical search engine optimization is that the level of "technical" can vary widely from one person to the next. That said, the resources below will give you a good solid level of knowledge from which to build upon going forward. This is a field that moves fast so you'll be ahead of the game if you go ahead and commit now to making ongoing learning a part of your routine. 
 
 
+[create an anchor](#test-technical-seo-guide)
+
 <h2 id="#guides">Technical SEO Guides</h2>
 
 * <a href="https://www.searchenginejournal.com/technical-seo/">Advanced Technical SEO: A Complete Guide</a> (source: Search Engine Journal)
@@ -36,3 +38,5 @@ The first thing you learn as you get into technical search engine optimization i
 
 <hr>
 Connect with me on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here)
+
+<a href="#test-technical-seo-guide">test technical seo guide</a>
