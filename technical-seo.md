@@ -10,16 +10,22 @@ The first thing you learn as you get into technical search engine optimization i
 
 * Guides:
 
+    - <a href="https://www.searchenginejournal.com/technical-seo/">Advanced Technical SEO: A Complete Guide</a> (source: Search Engine Journal)
+
 
 * People to follow for technical SEO advice:
-    - <a href="https://g.co/kgs/PJznys">Hamlet Batista</a> (G search results on him) <a href="https://twitter.com/hamletbatista">on Twitter</a>, <a href="https://www.searchenginejournal.com/author/hamlet-batista/">SearchEngineJournal posts by Hamlet</a>
-    - <a href="https://github.com/jroakes?tab=repositories">JR Oakes</a> (GitHub) & <a href="https://searchengineland.com/author/jr-oakes">SearchEngineLand posts by JR Oakes</a>
+    - <a href="https://g.co/kgs/PJznys">Hamlet Batista</a> (G search results on him), <a href="https://twitter.com/hamletbatista">on Twitter</a>, <a href="https://www.searchenginejournal.com/author/hamlet-batista/">Search Engine Journal posts by Hamlet</a>
+    - <a href="https://github.com/jroakes?tab=repositories">JR Oakes</a> (GitHub) & <a href="https://searchengineland.com/author/jr-oakes">Search Engine Land posts by JR Oakes</a>
+    - <a href="https://www.linkedin.com/in/slawski/">Bill Slawski</a> (LinkedIn), <a href="https://www.searchenginejournal.com/author/bill-slawski/">Search Engine Journal posts</a>
+    - <a href="https://www.youtube.com/user/stonetemplecons">Eric Enge</a> (YouTube), <a href="https://searchengineland.com/author/eric-enge">Search Engine Land Posts</a>
+    - <a href="https://twitter.com/TomekRudzki">Tomek Rudzki</a> (Twitter)
+    - Martin Splitt - <a href="https://www.botify.com/blog/martin-splitt-javascript-rendering">JavaScript Rendering Q&A With Google’s Martin Splitt</a>
 
 
 * Tutorials, Videos, and Articles on Technical SEO:
-
-
-
+    - <a href="https://moz.com/blog/category/technical-seo">Moz: Technical SEO articles</a>
+    - <a href="https://www.onely.com/resources/">Onely resources section</a>: includes articles, whitepapers, knowledge-packed decks, and informative videos.
+    - <a href="https://www.onely.com/blog/">Onely blog - lots of tech seo focused posts. JavaScript SEO, rendering issues, etc.
 
 <hr>
 Connect with me on <a href="https://www.linkedin.com/in/joshhinds">My LinkedIn page</a> (be sure to mention you found me here)
