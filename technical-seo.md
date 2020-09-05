@@ -1,6 +1,6 @@
 <b>Menu:</b> <a href="/">Home</a> | <a href="learn-seo">Learn SEO</a>
 <hr>
-<strong>Quick Navigation</strong>: <a href="#technical-seo-guides">Technical SEO Guides</a> | <a href="#technical-seo-experts">People to Follow for Technical SEO Advice</a> | <a href="#technical-seo-tutorials-articles-videos">Technical SEO tutorials, videos, articles</a>
+<strong>Quick Navigation</strong>: <a href="#technical-seo-guides">Technical SEO Guides</a> | <a href="#technical-seo-experts">People to Follow for Technical SEO Advice</a> | <a href="#technical-seo-tutorials-articles-videos">Technical SEO tutorials, videos, articles</a> | <a href="#javascript-seo-rendering">JavaScript SEO and Rendering
 
 <h1>Technical SEO Training Resources</h1>
 
@@ -20,19 +20,27 @@ The first thing you learn as you get into technical search engine optimization i
 * <a href="https://www.youtube.com/user/stonetemplecons">Eric Enge</a>, <a href="https://searchengineland.com/author/eric-enge">Eric's Search Engine Land Posts</a>
 * <a href="https://twitter.com/TomekRudzki">Tomek Rudzki</a> 
 * <a href="https://www.linkedin.com/in/barryadams/">Barry Adams</a> - <a href="https://searchengineland.com/author/barry-adams">articles by Barry</a>
-* Martin Splitt - <a href="https://www.botify.com/blog/martin-splitt-javascript-rendering">JavaScript Rendering Q&A With Google’s Martin Splitt</a>
 * <a href="https://twitter.com/patrickstox">Patrick Stox</a>, <a href="https://searchengineland.com/author/patrick-stox">Patrick's posts from search engine land</a>
 * <a href="https://twitter.com/Kevin_Indig">Kevin Indig</a>
+* Google's Martin Splitt, John Mueller, and Gary Illyes 
 
 
  <h2 id="technical-seo-tutorials-articles-videos"> Tutorials, Videos, and Articles on Technical SEO</h2>
  
  * <a href="https://moz.com/blog/category/technical-seo">Moz: Technical SEO articles</a>
  * <a href="https://www.onely.com/resources/">Onely resources section</a>: includes articles, whitepapers, knowledge-packed decks, and informative videos.
- * <a href="https://www.onely.com/blog/">Onely blog</a> - lots of tech seo focused posts. JavaScript SEO, rendering issues, etc.
  * <a href="https://youtu.be/7J-8Y529-WE">Google's Martin Splitt on how the search engine crawls and indexes</a> (video: interview)
+
+ 
+ <h3 id="javascript-seo-rendering">JavaScript SEO and Rendering </h3>
+ 
+ * <a href="https://www.onely.com/blog/ultimate-guide-javascript-seo/">The Ultimate Guide to JavaScript SEO</a> (source: Onely)
+ * <a href="https://developers.google.com/search/docs/guides/javascript-seo-basics">Understand the JavaScript SEO basics</a> (source: Google)
  * <a href="https://youtu.be/GdCBkX5mm2U">Javascript: What SEOs need to know</a> (video: Google's John Mueller & Martin Splitt)
  * <a href="https://www.youtube.com/playlist?list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9">JavaScript SEO series with Martin Splitt</a> (videos)
+ * <a href="https://www.botify.com/blog/martin-splitt-javascript-rendering">JavaScript Rendering Q&A With Google’s Martin Splitt</a>
+ * <a href="https://www.onely.com/blog/">Onely blog</a> - lots of tech seo focused posts. JavaScript SEO, rendering issues, etc.
+ * <a href="https://en.ryte.com/magazine/javascript-and-seo-best-practice-guide">JavaScript SEO - Best Practice Guide</a>
 
 <hr>
 Connect with me on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here)
