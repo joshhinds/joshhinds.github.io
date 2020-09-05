@@ -14,12 +14,14 @@ The first thing you learn as you get into technical search engine optimization i
 
 
 * People to follow for technical SEO advice:
-    - <a href="https://g.co/kgs/PJznys">Hamlet Batista</a> (G search results on him), <a href="https://twitter.com/hamletbatista">on Twitter</a>, <a href="https://www.searchenginejournal.com/author/hamlet-batista/">Search Engine Journal posts by Hamlet</a>
-    - <a href="https://github.com/jroakes?tab=repositories">JR Oakes</a> (GitHub) & <a href="https://searchengineland.com/author/jr-oakes">Search Engine Land posts by JR Oakes</a>
-    - <a href="https://www.linkedin.com/in/slawski/">Bill Slawski</a> (LinkedIn), <a href="https://www.searchenginejournal.com/author/bill-slawski/">Search Engine Journal posts</a>
-    - <a href="https://www.youtube.com/user/stonetemplecons">Eric Enge</a> (YouTube), <a href="https://searchengineland.com/author/eric-enge">Search Engine Land Posts</a>
-    - <a href="https://twitter.com/TomekRudzki">Tomek Rudzki</a> (Twitter)
+    - <a href="https://g.co/kgs/PJznys">Hamlet Batista</a>, <a href="https://twitter.com/hamletbatista">on Twitter</a>, <a href="https://www.searchenginejournal.com/author/hamlet-batista/">Search Engine Journal posts by Hamlet</a>
+    - <a href="https://github.com/jroakes?tab=repositories">JR Oakes</a>, <a href="https://searchengineland.com/author/jr-oakes">Search Engine Land posts by JR Oakes</a>
+    - <a href="https://www.linkedin.com/in/slawski/">Bill Slawski</a>, <a href="https://www.searchenginejournal.com/author/bill-slawski/">Search Engine Journal posts by Bill</a>
+    - <a href="https://www.youtube.com/user/stonetemplecons">Eric Enge</a>, <a href="https://searchengineland.com/author/eric-enge">Eric's Search Engine Land Posts</a>
+    - <a href="https://twitter.com/TomekRudzki">Tomek Rudzki</a> 
     - Martin Splitt - <a href="https://www.botify.com/blog/martin-splitt-javascript-rendering">JavaScript Rendering Q&A With Google’s Martin Splitt</a>
+    - <a href="https://twitter.com/patrickstox">Patrick Stox</a>, <a href="https://searchengineland.com/author/patrick-stox">Patrick's posts from search engine land</a>
+    - 
 
 
 * Tutorials, Videos, and Articles on Technical SEO:
