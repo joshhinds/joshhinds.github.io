@@ -9,3 +9,4 @@ organic traffic strategy. Remember, organic traffic refers to non-paid traffic. 
 <strong>Interests:</strong> 
 <p>* <a href="learn-seo.html" title="Resources to learn SEO">SEO (search engine optimization)</a> and organic traffic strategy, digital marketing, & online publishing. </p>
  <p>* I'm also interested in personal growth, professional development, and leadership related topics.</p>
+ 
