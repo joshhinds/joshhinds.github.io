@@ -8,7 +8,7 @@ The first thing you learn as you get into technical search engine optimization i
 
 
 <h2 id="#technical-seo-guides">Technical SEO Guides</h2>:
-    - <a href="https://www.searchenginejournal.com/technical-seo/">Advanced Technical SEO: A Complete Guide</a> (source: Search Engine Journal)</a>
+    - <a href="https://www.searchenginejournal.com/technical-seo/">Advanced Technical SEO: A Complete Guide</a> (source: Search Engine Journal)
 
 
 <h2 id="#technical-seo-people"> People to Follow for Technical SEO Advice</h2>:
@@ -26,8 +26,8 @@ The first thing you learn as you get into technical search engine optimization i
  <h2 id="#technical-seo-aticles-videos-tutorial"> Tutorials, Videos, and Articles on Technical SEO</h2>:
     - <a href="https://moz.com/blog/category/technical-seo">Moz: Technical SEO articles</a>
     - <a href="https://www.onely.com/resources/">Onely resources section</a>: includes articles, whitepapers, knowledge-packed decks, and informative videos.
-    - <a href="https://www.onely.com/blog/">Onely blog - lots of tech seo focused posts. JavaScript SEO, rendering issues, etc.
-    - <a href="https://youtu.be/7J-8Y529-WE">Google's Martin Splitt on how the search engine crawls and indexes (video: interview)
+    - <a href="https://www.onely.com/blog/">Onely blog</a> - lots of tech seo focused posts. JavaScript SEO, rendering issues, etc.
+    - <a href="https://youtu.be/7J-8Y529-WE">Google's Martin Splitt on how the search engine crawls and indexes</a> (video: interview)
     - <a href="https://youtu.be/GdCBkX5mm2U">Javascript: What SEOs need to know</a> (video: Google's John Mueller & Martin Splitt)
     - <a href="https://www.youtube.com/playlist?list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9">JavaScript SEO series with Martin Splitt</a> (videos)
 
