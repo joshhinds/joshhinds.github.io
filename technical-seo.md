@@ -1,6 +1,6 @@
 <b>Menu:</b> <a href="/">Home</a> | <a href="learn-seo">Learn SEO</a>
 <hr>
-<strong>Quick Navigation</strong>: <a href="#technical-seo-guides">Technical SEO Guides </a> | <a href="#technical-seo-people">People to Follow for Technical SEO Advice</a> | <a href="#technical-seo-aticles-videos-tutorial">Technical SEO tutorials, videos, articles</a>
+<strong>Quick Navigation</strong>: <a href="#technical-seo-guides">Technical SEO Guides</a> | <a href="#technical-seo-people">People to Follow for Technical SEO Advice</a> | <a href="#aticles-videos-tutorials-tech-seo">Technical SEO tutorials, videos, articles</a>
 
 # Technical SEO Training Resources
 
@@ -25,7 +25,7 @@ The first thing you learn as you get into technical search engine optimization i
 * <a href="https://twitter.com/Kevin_Indig">Kevin Indig</a>
 
 
- <h2 id="#technical-seo-aticles-videos-tutorial"> Tutorials, Videos, and Articles on Technical SEO</h2>
+ <h2 id="#aticles-videos-tutorials-tech-seo"> Tutorials, Videos, and Articles on Technical SEO</h2>
  
  * <a href="https://moz.com/blog/category/technical-seo">Moz: Technical SEO articles</a>
  * <a href="https://www.onely.com/resources/">Onely resources section</a>: includes articles, whitepapers, knowledge-packed decks, and informative videos.
