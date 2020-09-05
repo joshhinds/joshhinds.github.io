@@ -1,4 +1,4 @@
-<b>Menu:</b> <a href="/">Home</a> | <a href="learn-seo">Learn SEO</a>
+<b>Menu:</b> <a href="/">Home</a> | <a href="learn-seo">Learn SEO</a> (start page)
 <hr>
 <strong>Quick Navigation</strong>: <a href="#technical-seo-guides">Technical SEO Guides</a> | <a href="#technical-seo-experts">People to Follow for Technical SEO Advice</a> | <a href="#technical-seo-tutorials-articles-videos">Technical SEO tutorials, videos, articles</a> | <a href="#javascript-seo-rendering">JavaScript SEO and Rendering
 
