@@ -1,6 +1,5 @@
 <b>Menu: </b> <a href="learn-seo" title="How to learn SEO">Learn SEO</a>
 <hr>
-<p>
 <p>The plan is to build out a comprehensive resource for 
 those interested in learning search engine optimization (SEO) and 
 organic traffic strategy. Remember, organic traffif refers to non-paid traffic. Check in every so often as I expect this guide to grow overtime. 
