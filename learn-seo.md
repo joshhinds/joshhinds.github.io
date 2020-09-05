@@ -46,4 +46,4 @@ Choose one of the items below to get stated!
   
 
 <hr>
-Want to connect? Do so on <a href="https://www.linkedin.com/in/joshhinds">My LinkedIn page</a> (be sure to mention you found me here) 
+Want to connect? Do so on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here) 
