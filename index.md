@@ -2,7 +2,7 @@
 <hr>
 <p>The plan is to build out a comprehensive resource for 
 those interested in learning search engine optimization (SEO) and 
-organic traffic strategy. Remember, organic traffif refers to non-paid traffic. Check in every so often as I expect this guide to grow overtime. 
+organic traffic strategy. Remember, organic traffic refers to non-paid traffic. Check in every so often as I expect this guide to grow overtime. 
 </p>
 <p>You can also learn more about what I'm up to on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a>.</p>
 <p>
