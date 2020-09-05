@@ -1,6 +1,6 @@
 <b>Menu:</b> <a href="/">Home</a> | <a href="learn-seo">Learn SEO</a>
 <hr>
-<strong>Quick Navigation</strong>: <a href="#guides">Technical SEO Guides</a> | <a href="#people">People to Follow for Technical SEO Advice</a> | <a href="#aticles-videos-tutorials">Technical SEO tutorials, videos, articles</a>
+<strong>Quick Navigation</strong>: <a href="#guide-technical-seo">Technical SEO Guides</a> | <a href="#tech-seo-experts">People to Follow for Technical SEO Advice</a> | <a href="#tech-seo-tutorials-articles-videos">Technical SEO tutorials, videos, articles</a>
 
 # Technical SEO Training Resources
 
