@@ -27,7 +27,7 @@ Why the end part? Because search engine optimization refers to what happens in "
 important to learn all about the vast number of other organic sources of traffic (i.e. non-paid) which can include the likes of Reddit, the various social media platforms, Google Discover, and many more that can lead to great visibility without having to pay, yet aren't search engines (at least not how one traditionally thinks of them).
 
 <h2 id="seo-training">Ready to begin learning SEO?</h2> 
-Choose one of the items below to get stated!
+Choose one of the items below to get started!
 
 * <a href="on-page-seo">On-Page SEO</a>
 * <a href="technical-seo" title="Learn Technical SEO">Technical SEO</a>
