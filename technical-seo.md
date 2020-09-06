@@ -10,7 +10,7 @@ The first thing you learn as you get into technical search engine optimization i
 <h2 id="technical-seo-guides">Technical SEO Guides</h2>
 
 * <a href="https://www.searchenginejournal.com/technical-seo/">Advanced Technical SEO: A Complete Guide</a> (source: Search Engine Journal)
-
+* <a href="https://i.codeseo.dev/">iCodeSeo</a> - Code repository and reference library for Technical SEOs interested in development and data science.
 
 <h2 id="technical-seo-experts">People to Follow for Technical SEO Advice</h2>
 
