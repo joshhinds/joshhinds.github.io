@@ -20,9 +20,11 @@ The first thing you learn as you get into technical search engine optimization i
 * <a href="https://www.youtube.com/user/stonetemplecons">Eric Enge</a>, <a href="https://searchengineland.com/author/eric-enge">Eric's Search Engine Land Posts</a>
 * <a href="https://twitter.com/TomekRudzki">Tomek Rudzki</a> 
 * <a href="https://www.linkedin.com/in/barryadams/">Barry Adams</a> - <a href="https://searchengineland.com/author/barry-adams">articles by Barry</a>
+* <a href="https://www.aleydasolis.com/en/blog/">Aleyda Solis</a>
 * <a href="https://twitter.com/patrickstox">Patrick Stox</a>, <a href="https://searchengineland.com/author/patrick-stox">Patrick's posts from search engine land</a>
 * <a href="https://twitter.com/Kevin_Indig">Kevin Indig</a>
-* Google's Martin Splitt, John Mueller, and Gary Illyes 
+* Google's Martin Splitt, John Mueller, and Gary Illyes
+* <a href="https://dantaylor.online/blog/">Dan Taylor</a>
 
 
  <h2 id="technical-seo-tutorials-articles-videos"> Tutorials, Videos, and Articles on Technical SEO</h2>
