@@ -15,7 +15,7 @@ value in the information shared here just the same.
 
 ## Let's group SEO into 3 major categories:
 
-* On-page SEO
+* <a href="on-page-seo">On-Page SEO</a>
 * <a href="technical-seo" title="Technical SEO">Technical SEO</a>
 * Off-page SEO
 
@@ -29,7 +29,7 @@ important to learn all about the vast number of other organic sources of traffic
 <h2 id="seo-training">Ready to begin learning SEO?</h2> 
 Choose one of the items below to get stated!
 
-* On-page SEO
+* <a href="on-page-seo">On-Page SEO</a>
 * <a href="technical-seo" title="Learn Technical SEO">Technical SEO</a>
 * Off-page SEO
 * Organic Traffic Strategy (not specific to SEO, but important because it's part of the larger non-paid traffic discussion)
