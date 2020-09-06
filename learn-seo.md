@@ -4,7 +4,7 @@
 
 # Learn SEO (Search Engine Optimization)
 
-There are no shortage of places or people promising to teach you SEO. The challenge is finding the folks actually worth listening to and learning from.
+There's no shortage of places or people promising to teach you SEO. The challenge is finding the folks actually worth listening to and learning from.
 
 While I have been doing SEO going back to before it was even "officially" called "SEO" -- back when I got started we used to just call it getting real life people to visit
 our websites without having to pay money in order to do so. That was a good thing -- because most of the paid traffic options of today weren't even an option back then :-)
