@@ -1,4 +1,4 @@
-<b>Menu:</b> <a href="/">Home</a> - Learn SEO start page - <a href="technical-seo">Technical SEO</a> - On-Page SEO - Off-Page SEO
+<b>Menu:</b> <a href="/">Home</a> | <a href="technical-seo">Technical SEO</a> | <a href="on-page-seo">On-Page SEO</a> | Off-Page SEO
 <hr>
 <strong>Quick Navigation</strong>: <a href="#seo-training">Begin learning all about SEO</a> | <a href="#seo-guides">SEO Guides</a>
 
