@@ -12,7 +12,7 @@ As you move through the resources included here you will see just how broad the 
 <h2 id="on-page-seo-guides">On-Page SEO Guides</h2>
 
 * <a href="https://www.searchenginejournal.com/on-page-seo/">Search Engine Journal: The Complete Guide to On-Page SEO</a>
-
+* <a href="https://ahrefs.com/blog/on-page-seo/">Ahrefs: On-Page SEO: An Actionable Guide</a>
 
 <h2 id="on-page-seo-tutorials">Articles, Videos, and Tutorials about On-Page SEO</h2>
 
