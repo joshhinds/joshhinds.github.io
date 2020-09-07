@@ -34,7 +34,7 @@ Choose one of the items below to get started!
 
 * <a href="https://twitter.com/i/lists/225581017">SEO Experts twitter list</a>
 
-<h2 id="seo-guides">Comprehensive SEO Guides</h2>
+<h2 id="seo-guides">All In One SEO Guides</h2>
 
   * <a href="https://www.contentkingapp.com/academy/seo-guide/">Content King: The Beginner’s Guide to SEO</a>
   * <a href="https://moz.com/beginners-guide-to-seo">Moz: Beginner's Guide to SEO</a>
