@@ -4,8 +4,11 @@
 
 <h1>Technical SEO Training Resources</h1>
 
-The first thing you learn as you get into technical search engine optimization is that the level of "technical" can vary widely from one person to the next. That said, the resources below will give you a good solid level of knowledge from which to build upon going forward. This is a field that moves fast so you'll be ahead of the game if you go ahead and commit now to making ongoing learning a part of your routine. 
+The degree to how technical something is in "technical SEO" can vary from person to person. For one person it is using Python to automate common tasks and for another it's fixing Title tags on pages. Don't laugh it can actually be that far ranging.
+ 
+Wherever your skill level is now the resources here will allow you to level up your knowledge to lead the field. 
 
+SEO moves fast so you’ll want to go ahead and commit now to making ongoing learning a part of your routine.
 
 <h2 id="technical-seo-guides">Technical SEO Guides</h2>
 
