@@ -17,7 +17,7 @@ As you move through the resources included here you will see how broad the topic
 
 * <a href="https://moz.com/blog/category/on-page-seo">Moz: On-page SEO articles</a>
 * <a href="https://moz.com/learn/seo/on-page-factors">Moz: On-Page Ranking Factors</a>
-* <a href="">"10 Essential On-Page SEO Factors You Need to Know
+* <a href="https://www.searchenginejournal.com/on-page-seo/essential-factors/">10 Essential On-Page SEO Factors You Need to Know</a>
 * <a href="https://www.crazyegg.com/blog/seo/on-page/">What is On-Page SEO and How it Can Affect Conversions</a>
 
 <hr>
