@@ -23,10 +23,14 @@ Off-Page SEO is super important when it comes to getting organic traffic and get
 
 <h2 id="off-page-seo-guides">Off-Page SEO Guides</h2>
 
+* <a href="https://www.semrush.com/blog/off-page-seo/">What Is Off-Page SEO? A Comprehensive Guide</a>
+* <a href="https://ignitevisibility.com/off-page-seo/">Off-Page SEO Guide: Techniques, Examples & Strategies</a>
+* <a href="https://www.rankranger.com/blog/off-page-optimization">SEO Foundations: Your Guide to Off-Page Optimization</a>
 
 <h2 id="tutorials-off-page-seo">Tutorials, Videos, and Articles about Off-Page SEO</h2>
 
-
+* <a href="https://moz.com/learn/seo/off-site-seo">Off-Page SEO Ranking Factors</a>
+* <a href="https://terakeet.com/blog/off-page-seo/">Highly Effective Off-Page SEO Strategies (That Get Backlinks)</a>
 
 
 <hr>
