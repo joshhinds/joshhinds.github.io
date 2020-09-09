@@ -47,6 +47,7 @@ SEO moves fast so you’ll want to go ahead and commit now to making ongoing lea
  * <a href="https://www.botify.com/blog/martin-splitt-javascript-rendering">JavaScript Rendering Q&A With Google’s Martin Splitt</a>
  * <a href="https://www.onely.com/blog/">Onely blog</a> - lots of tech seo focused posts. JavaScript SEO, rendering issues, etc.
  * <a href="https://en.ryte.com/magazine/javascript-and-seo-best-practice-guide">JavaScript SEO - Best Practice Guide</a>
+ * <a href="https://www.onely.com/blog/rendering-seo-manifesto/">Rendering SEO manifesto – why JavaScript SEO is not enough</a> <<== Josh's Tip: Consider reading this twice just so the ideas in it sink in :-)
 
 <hr>
 Connect with me on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here)
