@@ -28,6 +28,7 @@ SEO moves fast so you’ll want to go ahead and commit now to making ongoing lea
 * <a href="https://twitter.com/Kevin_Indig">Kevin Indig</a>
 * Google's Martin Splitt, John Mueller, and Gary Illyes
 * <a href="https://dantaylor.online/blog/">Dan Taylor</a>
+* <a href="https://twitter.com/McCieslak">Maria Cieślak</a>
 
 
  <h2 id="technical-seo-tutorials-articles-videos"> Tutorials, Videos, and Articles on Technical SEO</h2>
