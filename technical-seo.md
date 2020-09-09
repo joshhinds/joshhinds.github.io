@@ -17,7 +17,7 @@ SEO moves fast so you’ll want to go ahead and commit now to making ongoing lea
 
 <h2 id="technical-seo-experts">People to Follow for Technical SEO Advice</h2>
 
-* <a href="https://g.co/kgs/PJznys">Hamlet Batista</a>, <a href="https://twitter.com/hamletbatista">on Twitter</a>, <a href="https://www.searchenginejournal.com/author/hamlet-batista/">Search Engine Journal posts by Hamlet</a>
+* <a href="https://twitter.com/hamletbatista">Hamlet Batista</a>, <a href="https://www.searchenginejournal.com/author/hamlet-batista/">Search Engine Journal posts by Hamlet</a>
 * <a href="https://github.com/jroakes?tab=repositories">JR Oakes</a>, <a href="https://searchengineland.com/author/jr-oakes">Search Engine Land posts by JR Oakes</a>
 * <a href="https://www.linkedin.com/in/slawski/">Bill Slawski</a>, <a href="https://www.searchenginejournal.com/author/bill-slawski/">Search Engine Journal posts by Bill</a>
 * <a href="https://www.youtube.com/user/stonetemplecons">Eric Enge</a>, <a href="https://searchengineland.com/author/eric-enge">Eric's Search Engine Land Posts</a>
