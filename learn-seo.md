@@ -44,6 +44,8 @@ Choose one of the items below to get started!
   * <a href="https://www.searchenginejournal.com/seo-guide/">SearchEngineJournal: A Complete Guide to SEO: What You Need to Know</a>
   * <a href="https://support.google.com/webmasters/answer/7451184?hl=en">Google: Search Engine Optimization (SEO) Starter Guide</a>
   
+<h3>SEO Fundamentals</h3>
+ *Content King: <a href="https://www.contentkingapp.com/academy/authority/">Authority and Trust in SEO explained</a>
 
 <hr>
 Want to connect? Do so on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here) 
