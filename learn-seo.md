@@ -1,6 +1,6 @@
 <b>Menu:</b> <a href="/">Home</a> - <a href="technical-seo">Technical SEO</a> - <a href="on-page-seo">On-Page SEO</a> - <a href="off-page-seo">Off-Page SEO</a>
 <hr>
-<strong>Quick Navigation</strong>: <a href="#seo-training">Begin learning all about SEO</a> | <a href="#seo-guides">SEO Guides</a>
+<strong>Quick Navigation</strong>: <a href="#seo-training">Begin learning all about SEO</a> | <a href="#seo-guides">SEO Guides</a> | <a href="#seo-fundamentals">SEO Fundamentals</a>
 
 # Learn SEO (Search Engine Optimization)
 
@@ -44,7 +44,7 @@ Choose one of the items below to get started!
   * <a href="https://www.searchenginejournal.com/seo-guide/">SearchEngineJournal: A Complete Guide to SEO: What You Need to Know</a>
   * <a href="https://support.google.com/webmasters/answer/7451184?hl=en">Google: Search Engine Optimization (SEO) Starter Guide</a>
   
-<h3>SEO Fundamentals</h3>
+<h2 id="seo-fundamentals">SEO Fundamentals</h2>
  
 * Content King: <a href="https://www.contentkingapp.com/academy/authority/">Authority and Trust in SEO explained</a>
 
