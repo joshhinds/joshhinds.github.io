@@ -1,4 +1,4 @@
-<b>Menu:</b> <a href="learn-seo" title="How to learn SEO">Learn SEO</a> (start page) - <a href="technical-seo">Technical SEO</a> - <a href="on-page-seo">On-Page SEO</a> - <a href="off-page-seo">Off-Page SEO</a>
+<b>Menu:</b> <a href="learn-seo.html" title="How to learn SEO">Learn SEO</a> (start page) - <a href="technical-seo.html">Technical SEO</a> - <a href="on-page-seo.html">On-Page SEO</a> - <a href="off-page-seo.html">Off-Page SEO</a>
 <hr>
 <p>If you want to learn about SEO and organic traffic strategy you've found the right place. Organic traffic refers to non-paid traffic. Check in here often as this guide will grow overtime. 
 </p>
