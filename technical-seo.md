@@ -37,6 +37,7 @@ SEO moves fast so you’ll want to go ahead and commit now to making ongoing lea
  * <a href="https://moz.com/blog/category/technical-seo">Moz: Technical SEO articles</a>
  * <a href="https://www.onely.com/resources/">Onely resources section</a>: includes articles, whitepapers, knowledge-packed decks, and informative videos.
  * <a href="https://youtu.be/7J-8Y529-WE">Google's Martin Splitt on how the search engine crawls and indexes</a> (video: interview)
+ * <a href="https://www.onely.com/blog/ultimate-guide-crawl-budget/">Onely: The Ultimate Guide to Crawl Budget Optimization</a>
 
  
  <h3 id="javascript-seo-rendering">JavaScript SEO and Rendering </h3>
