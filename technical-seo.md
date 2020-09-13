@@ -1,3 +1,8 @@
+---
+Title: Technical SEO Learning Library | By Josh Hinds
+Description: Technical SEO Learning Library. Free resources for learning the technical side of search engine optimization. Get started now to begin enhancing your skills!
+---
+
 <b>Menu:</b> <a href="/">Home</a> - <a href="learn-seo.html">Learn SEO</a> (start page) - <a href="on-page-seo.html">On-Page SEO</a> - <a href="off-page-seo.html">Off-Page SEO</a>
 <hr>
 <strong>Quick Navigation</strong>: <a href="#technical-seo-guides">Technical SEO Guides</a> | <a href="#technical-seo-experts">People to Follow for Technical SEO Advice</a> | <a href="#technical-seo-tutorials-articles-videos">Technical SEO tutorials, videos, articles</a> | <a href="#javascript-seo-rendering">JavaScript SEO and Rendering
