@@ -1,5 +1,5 @@
 ---
-Title: Technical SEO Learning Library | By Josh Hinds
+Title: Technical SEO Learning Library - Josh Hinds
 Description: Technical SEO Learning Library. Free resources for learning the technical side of search engine optimization. Get started now to begin enhancing your skills!
 ---
 
