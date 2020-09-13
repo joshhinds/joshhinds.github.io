@@ -16,7 +16,7 @@ That doesn’t mean I’ll get it right 100% of the time. I bet I don’t even g
 
 * <a href="on-page-seo">On-Page SEO</a>
 * <a href="technical-seo" title="Technical SEO">Technical SEO</a>
-* Off-page SEO
+* <a href="off-page-seo.html">Off-Page SEO</a>
 
 There's a lot of of overlap in the three categories and you may well find resources in one that could go in one or the other. This is not meant to be an end all source for learning search engine optimization. Anyone promising that -- run! I do think it'll be worth checking out often and sharing with others.
 
@@ -29,7 +29,7 @@ Choose one of the items below to get started!
 
 * <a href="on-page-seo">On-Page SEO</a>
 * <a href="technical-seo" title="Learn Technical SEO">Technical SEO</a>
-* Off-page SEO
+* <a href="off-page-seo.html">Off-Page SEO</a>
 * Organic Traffic Strategy (not specific to SEO, but important because it's part of the larger non-paid traffic discussion)
 
 * <a href="https://twitter.com/i/lists/225581017">SEO Experts twitter list</a>
