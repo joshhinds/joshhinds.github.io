@@ -16,7 +16,7 @@ Some known off-page trust signals are external links, citations, and mentions. A
 
 Think of an external link, a website or source outside your own, linking to your site as a vote of confidence. That's how the search engines see it. That's a simplification of what's happening but it is a good illustration just the same.
 
-Your page or profile on well known social networks, and Google My business can also be trust signals. Other off-page trust signals and ranking factors are discussed in the resources below.
+Your page or profile on well known social networks, and Google My Business can also be trust signals. Other off-page trust signals and ranking factors are discussed in the resources below.
 
 Off-Page SEO is super important when it comes to getting organic traffic and getting seen.
 
