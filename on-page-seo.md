@@ -6,7 +6,7 @@
 
 Think of On-Page as anything on a website, or webpage that can be optimized to help the page rank better. The possibilities here are quite wide ranging. You can optimize images, the content itself, the URL structure of pages on your site, and much more. You can also optimize items in the source code like title tags, meta descriptions.    Even the content itself that you choose or build upon should be optimized.
 
-As you move through the resources included here you will see how broad the topic of On-Page SEO is. After you have completed this section you’ll be well ahead of those who think doing SEO is adding keywords to a page. The content and messaging part is super important of course, but that’s only a piece of the puzzle needed to win.
+As you move through the resources included here you will see how broad the topic of On-Page SEO is. After you have completed this section you’ll be well ahead of those who think doing SEO is all about adding keywords to a page. The content and messaging part is super important of course, but that’s only a piece of the puzzle needed to win.
 
 <h2 id="on-page-seo-guides">On-Page SEO Guides</h2>
 
