@@ -1,3 +1,10 @@
+---
+title: How to Learn SEO - Free Guides, Tutorials, Videos, Trainings
+description: SEO training resources. Learn all about search engine optimization and organic traffic strategy. Includes guides, tutorias, articles, videos and more for free!
+
+---
+
+
 <b>Menu:</b> <a href="/">Home</a> - <a href="technical-seo.html">Technical SEO</a> - <a href="on-page-seo.html">On-Page SEO</a> - <a href="off-page-seo.html">Off-Page SEO</a>
 <hr>
 <strong>Quick Navigation</strong>: <a href="#seo-training">Begin learning all about SEO</a> | <a href="#seo-guides">SEO Guides</a> | <a href="#seo-fundamentals">SEO Fundamentals</a>
