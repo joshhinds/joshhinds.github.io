@@ -36,6 +36,7 @@ SEO moves fast so you’ll want to go ahead and commit now to making ongoing lea
 * <a href="https://dantaylor.online/blog/">Dan Taylor</a>
 * <a href="https://twitter.com/McCieslak">Maria Cieślak</a>
 * <a href="https://github.com/CharlyWargnier">Charly Wargnier</a>
+* <a href="https://advertools.readthedocs.io/en/master/">Elias Dabbas</a>
 
 
  <h2 id="technical-seo-tutorials-articles-videos"> Tutorials, Videos, and Articles on Technical SEO</h2>
