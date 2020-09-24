@@ -3,7 +3,7 @@ title: Learn Off-Page SEO - Free Guides, Tutorials, Videos, Trainings
 description: Off-page SEO training. Learn about off-page search engine optimization. Guides, tutorias, and videos on trust signals, how to build site authority, and more.
 ---
 
-<b>Menu: </b> <a href="/">Home</a> - <a href="learn-seo.html" title="How to learn SEO">Learn SEO</a> (start page) - <a href="technical-seo.html">Technical SEO</a> - <a href="on-page-seo.html">On-Page SEO</a> 
+<b>Menu: </b> <a href="/">Home</a> - <a href="learn-seo.html" title="How to learn SEO">Learn SEO</a> (start page) - <a href="technical-seo.html">Technical SEO</a> - <a href="on-page-seo.html">On-Page SEO</a> - <a href="seo-automation.html">SEO Automation</a>
 
 <hr>
 
