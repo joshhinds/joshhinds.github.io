@@ -5,7 +5,7 @@ description: SEO training resources. Learn all about search engine optimization 
 ---
 
 
-<b>Menu:</b> <a href="/">Home</a> - <a href="technical-seo.html">Technical SEO</a> - <a href="on-page-seo.html">On-Page SEO</a> - <a href="off-page-seo.html">Off-Page SEO</a>
+<b>Menu:</b> <a href="/">Home</a> - <a href="technical-seo.html">Technical SEO</a> - <a href="on-page-seo.html">On-Page SEO</a> - <a href="off-page-seo.html">Off-Page SEO</a> - <a href="seo-automation.html">SEO Automation</a>
 <hr>
 <strong>Quick Navigation</strong>: <a href="#seo-training">Begin learning all about SEO</a> | <a href="#seo-guides">SEO Guides</a> | <a href="#seo-fundamentals">SEO Fundamentals</a>
 
