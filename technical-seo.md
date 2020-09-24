@@ -4,13 +4,13 @@ description: Technical SEO Learning Library. Free resources for learning the tec
 
 ---
 
-<b>Menu:</b> <a href="/">Home</a> - <a href="learn-seo.html">Learn SEO</a> (start page) - <a href="on-page-seo.html">On-Page SEO</a> - <a href="off-page-seo.html">Off-Page SEO</a>
+<b>Menu:</b> <a href="/">Home</a> - <a href="learn-seo.html">Learn SEO</a> (start page) - <a href="on-page-seo.html">On-Page SEO</a> - <a href="off-page-seo.html">Off-Page SEO</a> - <a href="seo-automation.html">SEO Automation</a>
 <hr>
 <strong>Quick Navigation</strong>: <a href="#technical-seo-guides">Technical SEO Guides</a> | <a href="#technical-seo-experts">People to Follow for Technical SEO Advice</a> | <a href="#technical-seo-tutorials-articles-videos">Technical SEO tutorials, videos, articles</a> | <a href="#javascript-seo-rendering">JavaScript SEO and Rendering
 
 <h1>Technical SEO Training Resources</h1>
 
-The degree to how technical something is in "technical SEO" can vary from person to person. For one person it is using Python to automate common tasks and for another it's fixing Title tags on pages. Don't laugh it can actually be that far ranging.
+The degree to how technical something is in "technical SEO" can vary from person to person. For one person it is using Python to <a href="seo-automation.html">automate SEO related tasks</a> and for another it's fixing Title tags on pages. Don't laugh it can actually be that far ranging.
  
 Wherever your skill level is now the resources here will allow you to level up your knowledge to lead the field. 
 
