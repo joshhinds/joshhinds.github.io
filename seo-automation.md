@@ -17,10 +17,13 @@ Once you learn what's possible with SEO automation, you'll wonder how you got an
 
 <h2 id="seo-automation-tutorials">SEO Automation tutorials, videos, articles </h2>
 
+* <a href="https://developers.google.com/apps-script/guides/videos">Google Apps Script Video Library</a>
+
 
 
 <h2 id="python-seo">Python for SEO </h2>
 
+* <a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a> By Al Sweigart <<-- Josh's Tip: General resource for learning Python 
 
 <h2 id="seo-automation-tools">SEO Automation Tools</h2>
 
