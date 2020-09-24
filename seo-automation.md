@@ -22,7 +22,7 @@ Once you learn what's possible with SEO automation, you'll wonder how you got an
 <h2 id="python-seo">Python for SEO </h2>
 
 
-<h2 id="seo-automation-tools">SEO Automation Tools</a>
+<h2 id="seo-automation-tools">SEO Automation Tools</h2>
 
 
 <hr>
