@@ -54,6 +54,7 @@ Choose one of the items below to get started!
 <h3>eCommerce SEO</h3>
 
 * <a href="https://www.contentkingapp.com/academy/shopify-seo/">Shopify SEO Guide</a>
+* <a href="https://www.contentkingapp.com/academy/ecommerce-seo-checklist/">SEO Checklist for eCommerce</a>
  
 <h2 id="seo-fundamentals">SEO Fundamentals</h2>
  
