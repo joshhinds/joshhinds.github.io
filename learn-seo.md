@@ -50,7 +50,11 @@ Choose one of the items below to get started!
   * <a href="https://searchengineland.com/guide/seo">SearchEngineLand: Essential Guide to SEO: Master the science of SEO</a>
   * <a href="https://www.searchenginejournal.com/seo-guide/">SearchEngineJournal: A Complete Guide to SEO: What You Need to Know</a>
   * <a href="https://support.google.com/webmasters/answer/7451184?hl=en">Google: Search Engine Optimization (SEO) Starter Guide</a>
-  
+ 
+<h3>eCommerce SEO</h3>
+
+* <a href="https://www.contentkingapp.com/academy/shopify-seo/">Shopify SEO Guide</a>
+ 
 <h2 id="seo-fundamentals">SEO Fundamentals</h2>
  
 * Content King: <a href="https://www.contentkingapp.com/academy/authority/">Authority and Trust in SEO explained</a>
