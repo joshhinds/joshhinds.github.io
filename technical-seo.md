@@ -46,7 +46,7 @@ SEO moves fast so you’ll want to go ahead and commit now to making ongoing lea
  * <a href="https://youtu.be/7J-8Y529-WE">Google's Martin Splitt on how the search engine crawls and indexes</a> (video: interview)
  * <a href="https://www.onely.com/blog/ultimate-guide-crawl-budget/">Onely: The Ultimate Guide to Crawl Budget Optimization</a>
  * <a href="https://www.onely.com/blog/dont-let-robots-get-lost-on-your-website/">Don’t Let Crawlers Get Lost on Your Website</a> (explores how navigation, menus, and filters can impact crawlability and indexing)
-* <a href="https://www.portent.com/blog/seo/seo-log-file-analysis.htm">Log File Analysis For SEO by Ian Laurie</a>
+* <a href="https://www.portent.com/blog/seo/seo-log-file-analysis.htm">Log File Analysis For SEO by Ian Lurie</a>
 
  <h3 id="javascript-seo-rendering">JavaScript SEO and Rendering </h3>
  
