@@ -47,6 +47,7 @@ SEO moves fast so you’ll want to go ahead and commit now to making ongoing lea
  * <a href="https://www.onely.com/blog/ultimate-guide-crawl-budget/">Onely: The Ultimate Guide to Crawl Budget Optimization</a>
  * <a href="https://www.onely.com/blog/dont-let-robots-get-lost-on-your-website/">Don’t Let Crawlers Get Lost on Your Website</a> (explores how navigation, menus, and filters can impact crawlability and indexing)
 * <a href="https://www.portent.com/blog/seo/seo-log-file-analysis.htm">Log File Analysis For SEO by Ian Lurie</a>
+* <a href="https://www.deepcrawl.com/knowledge/technical-seo-library/robots-txt/">Robots.txt guide (Deepcrawl)</a>
 
  <h3 id="javascript-seo-rendering">JavaScript SEO and Rendering </h3>
  
