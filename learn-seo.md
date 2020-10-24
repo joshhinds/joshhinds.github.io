@@ -57,7 +57,15 @@ Choose one of the items below to get started!
 * <a href="https://www.contentkingapp.com/academy/ecommerce-seo-checklist/">SEO Checklist for eCommerce</a>
  
 <h2 id="seo-fundamentals">SEO Fundamentals</h2>
- 
+
+<h3>Website Authority</h3>
+
+Website authority, sometimes referred to as domain authority, among other things. No matter what you call it you need to know what it is and how it can make or break your search engine visibility. 
+
+Think of a search engine as a recommendation engine. That is to say it wants to deliver the best, most relevant results for what people are searching for. It does this by trying to show results it views as expertise, authoritative, and trustworthy. That's what Google is referring to when it <a href="https://www.mariehaynes.com/eat/" title="Guide to understanding E-A-T">talks about E-A-T</a> in their Quality Raters’ Guidelines.
+
+In the same way you make recommendations based on things you trust. The search engines are attempting to do the same thing.
+
 * Content King: <a href="https://www.contentkingapp.com/academy/authority/">Authority and Trust in SEO explained</a>
 
 <hr>
