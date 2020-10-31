@@ -23,6 +23,7 @@ Once you learn what's possible with SEO automation, you'll wonder how you got an
 
 <h2 id="python-seo">Python for SEO </h2>
 
+* <a href="https://www.searchenginejournal.com/python-seo-data-reference-guide/287927/?utm_source=search_library_joshhinds">How to Use Python to Analyze SEO Data: A Reference Guide</a> By Hamlet Batista
 * <a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a> By Al Sweigart <<-- Josh's Tip: General resource for learning Python 
 * <a href="http://www.slideshare.net/bgoerler/bringing-the-fun-back-to-seo-with-python">Bringing the fun back to SEO with Python</a> (slideshare)
 * <a href="https://importsem.com/use-python-difflib-to-automate-robots-txt-change-detection/">Use Python Difflib to Detect and Display Robots.txt Changes</a>
