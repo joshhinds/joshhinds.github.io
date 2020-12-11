@@ -7,7 +7,7 @@ description: SEO training resources. Learn all about search engine optimization 
 
 <b>Menu:</b> <a href="/">Home</a> - <a href="technical-seo.html">Technical SEO</a> - <a href="on-page-seo.html">On-Page SEO</a> - <a href="off-page-seo.html">Off-Page SEO</a> - <a href="seo-automation.html">SEO Automation</a>
 <hr>
-<strong>Quick Navigation</strong>: <a href="#seo-training">Begin learning all about SEO</a> | <a href="#seo-guides">SEO Guides</a> | <a href="#seo-fundamentals">SEO Fundamentals</a> | <a href="#Website-authority">Website Authority</a>
+<strong>Quick Navigation</strong>: <a href="#seo-training">Begin learning all about SEO</a> | <a href="#seo-guides">SEO Guides</a> | <a href="#seo-fundamentals">SEO Fundamentals</a> | <a href="#Website-authority">Website Authority</a> | <a href="#show-seo-roi">How to Show SEO ROI</a>
 
 # Learn SEO (Search Engine Optimization)
 
@@ -68,6 +68,12 @@ In the same way you make recommendations based on things you trust. The search e
 
 * Content King: <a href="https://www.contentkingapp.com/academy/authority/">Authority and Trust in SEO explained</a>
 * ahrefs: <a href="https://ahrefs.com/blog/eat-seo/">What is E‑A-T? Why It’s Important for SEO</a>
+
+<h3 id="show-seo-roi">How to Show SEO ROI and Make a Business Case</h3>
+
+If you work in search engine optimization you know it isn't a matter of just getting website traffic. You have to make a business case for your SEO strategy. Recommendations based on getting more traffic alone to the website won't cut it. You're going to have show a real ROI (retrun on investment) for your organic traffic strategy. If that's intimidating, don't worry, we've got you covered.
+
+* <a href="https://terakeet.com/blog/seo-lead-generation/">SEO Lead Generation: How to Get Leads Through SEO</a>
 
 <hr>
 Want to connect? Do so on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here) 
