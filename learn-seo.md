@@ -75,5 +75,6 @@ If you work in search engine optimization you know it isn't a matter of just get
 
 * <a href="https://terakeet.com/blog/seo-lead-generation/">SEO Lead Generation: How to Get Leads Through SEO</a>
 
+
 <hr>
 Want to connect? Do so on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here) 
