@@ -71,7 +71,7 @@ In the same way you make recommendations based on things you trust. The search e
 
 <h3 id="show-seo-roi">How to Show SEO ROI and Make a Business Case</h3>
 
-If you work in search engine optimization you know it isn't a matter of just getting website traffic. You have to make a business case for your SEO strategy. Recommendations based on getting more traffic alone to the website won't cut it. You're going to have show a real ROI (retrun on investment) for your organic traffic strategy. If that's intimidating, don't worry, we've got you covered.
+If you work in search engine optimization you know it isn't a matter of just getting website traffic. You have to make a business case for your SEO strategy. You're going to have show a real ROI (retrun on investment) for your organic traffic strategy. If that's intimidating, don't worry, we've got you covered.
 
 * <a href="https://terakeet.com/blog/seo-lead-generation/">SEO Lead Generation: How to Get Leads Through SEO</a>
 
