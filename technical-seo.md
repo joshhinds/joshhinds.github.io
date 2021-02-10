@@ -53,6 +53,7 @@ SEO moves fast so you’ll want to go ahead and commit now to making ongoing lea
  
  * <a href="https://www.onely.com/blog/ultimate-guide-javascript-seo/">The Ultimate Guide to JavaScript SEO</a> (source: Onely)
  * <a href="https://developers.google.com/search/docs/guides/javascript-seo-basics">Understand the JavaScript SEO basics</a> (source: Google)
+ * <a href="https://moz.com/blog/javascript-seo-guide">The Definitive Guide to JavaScript SEO</a> (source: Moz)
  * <a href="https://youtu.be/GdCBkX5mm2U">Javascript: What SEOs need to know</a> (video: Google's John Mueller & Martin Splitt)
  * <a href="https://www.youtube.com/playlist?list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9">JavaScript SEO series with Martin Splitt</a> (videos)
  * <a href="https://www.botify.com/blog/martin-splitt-javascript-rendering">JavaScript Rendering Q&A With Google’s Martin Splitt</a>
