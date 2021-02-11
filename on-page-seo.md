@@ -26,6 +26,11 @@ As you move through the resources included here you will see how broad the topic
 * <a href="https://www.searchenginejournal.com/on-page-seo/essential-factors/">10 Essential On-Page SEO Factors You Need to Know</a>
 * <a href="https://www.crazyegg.com/blog/seo/on-page/">What is On-Page SEO and How it Can Affect Conversions</a>
 
+<h3>Image SEO Optimization</h3>
+
+* <a href="https://www.searchenginejournal.com/on-page-seo/image-optimization/">11 Important Image SEO Tips You Need to Know</a>
+
+
 <hr>
 Connect with me on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here)
 
