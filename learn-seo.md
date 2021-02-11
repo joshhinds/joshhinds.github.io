@@ -55,6 +55,10 @@ Choose one of the items below to get started!
 
 * <a href="https://www.contentkingapp.com/academy/shopify-seo/">Shopify SEO Guide</a>
 * <a href="https://www.contentkingapp.com/academy/ecommerce-seo-checklist/">SEO Checklist for eCommerce</a>
+
+<h3>On-SERP SEO & Brand SERP Search Engine Optimization</h3>
+
+* <a href="https://www.searchenginejournal.com/on-serp-seo/">How to Use On-SERP SEO to Increase Brand Awareness & CTR</a> (searcheginejournal)
  
 <h2 id="seo-fundamentals">SEO Fundamentals</h2>
 
