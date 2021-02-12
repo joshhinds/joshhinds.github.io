@@ -29,6 +29,7 @@ As you move through the resources included here you will see how broad the topic
 <h3>Image SEO Optimization</h3>
 
 * <a href="https://www.searchenginejournal.com/on-page-seo/image-optimization/">11 Important Image SEO Tips You Need to Know</a>
+* <a href="https://developers.google.com/search/docs/advanced/guidelines/google-images?hl=en&visit_id=637486763527845654-4285166993&rd=1">Google Images best practices</a> (source: Google)
 
 
 <hr>
