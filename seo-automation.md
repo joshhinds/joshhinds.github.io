@@ -25,10 +25,11 @@ Once you learn what's possible with SEO automation, you'll wonder how you got an
 
 <h3> Guides</h3>
 
-* <a href="https://www.jcchouinard.com/python-for-seo/" target="_blank" rel="noopener">Python for SEO: Complete Guide (in 7 Chapters)</a> - by JC Chouinard
+* <a href="https://www.jcchouinard.com/python-for-seo/" target="_blank" rel="noopener">Python for SEO: Complete Guide (in 7 Chapters)</a> - By JC Chouinard
 * <a href="https://www.searchenginejournal.com/python-seo-data-reference-guide/287927/?utm_source=search_library_joshhinds" target="_blank" rel="noopener">How to Use Python to Analyze SEO Data: A Reference Guide</a> By Hamlet Batista
 * <a href="https://www.searchenginejournal.com/python-technical-seo/330515/" target="_blank" rel="noopener">An Introduction to Python for Technical SEO</a> By Ruth Everett (source: Search Engine Journal)
 * <a href="https://automatetheboringstuff.com" target="_blank" rel="noopener">Automate the Boring Stuff with Python</a> By Al Sweigart <<-- Josh's Tip: Great general resource for learning Python 
+* <a href="https://www.holisticseo.digital/python-seo/data-science/" target="_blank" rel="noopener">Data Science SEO and Visualization with Python guide</a> By Koray Tuğberk GÜBÜR
   
   <h3>Tutorials / Articles / Resources</h3>  
   
