@@ -12,7 +12,9 @@ SEO automation is a big topic. All the ways to automate search engine optimizati
 
 Once you learn what's possible with SEO automation, you'll wonder how you got any work done before.
 
-<!-- <h2 id="seo-automation-guides">SEO Automation Guides </h2> -->
+<!-- 
+<h2 id="seo-automation-guides">SEO Automation Guides </h2> 
+--->
 
 
 <h2 id="seo-automation-tutorials">SEO Automation tutorials, videos, articles </h2>
