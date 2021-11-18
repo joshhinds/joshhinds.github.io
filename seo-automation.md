@@ -31,6 +31,9 @@ Once you learn what's possible with SEO automation, you'll wonder how you got an
 
 <h2 id="seo-automation-tools">SEO Automation Tools</h2>
 
+* <a href="https://learningseo.io/seo-tools/">SEO Tools - collection of tools, paid & free</a> (source: LearningSEO) 
+* <a href="https://learningseo.io/implement-with-free-seo-tools/">Collection of Free SEO Tools</a> (source: LearningSEO)
+
 
 <hr>
 Connect with me on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here)
