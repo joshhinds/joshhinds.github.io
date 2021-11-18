@@ -23,12 +23,17 @@ Once you learn what's possible with SEO automation, you'll wonder how you got an
 
 <h2 id="python-seo">Python for SEO </h2>
 
-* <a href="https://www.searchenginejournal.com/python-seo-data-reference-guide/287927/?utm_source=search_library_joshhinds" target="_blank" rel="noopener">How to Use Python to Analyze SEO Data: A Reference Guide</a> By Hamlet Batista
-* <a href="https://automatetheboringstuff.com" target="_blank" rel="noopener">Automate the Boring Stuff with Python</a> By Al Sweigart <<-- Josh's Tip: General resource for learning Python 
-* <a href="http://www.slideshare.net/bgoerler/bringing-the-fun-back-to-seo-with-python" target="_blank" rel="noopener">Bringing the fun back to SEO with Python</a> by Ben Görler (slideshare)
-* <a href="https://importsem.com/use-python-difflib-to-automate-robots-txt-change-detection/" target="_blank" rel="noopener">Use Python Difflib to Detect and Display Robots.txt Changes</a>
-* <a href="https://www.searchenginejournal.com/python-technical-seo/330515/" target="_blank" rel="noopener">An Introduction to Python for Technical SEO</a> By Ruth Everett (source: Search Engine Journal)
+<h3> Guides</h3>
 
+* <a href="https://www.searchenginejournal.com/python-seo-data-reference-guide/287927/?utm_source=search_library_joshhinds" target="_blank" rel="noopener">How to Use Python to Analyze SEO Data: A Reference Guide</a> By Hamlet Batista
+* <a href="https://www.searchenginejournal.com/python-technical-seo/330515/" target="_blank" rel="noopener">An Introduction to Python for Technical SEO</a> By Ruth Everett (source: Search Engine Journal)
+* <a href="https://automatetheboringstuff.com" target="_blank" rel="noopener">Automate the Boring Stuff with Python</a> By Al Sweigart <<-- Josh's Tip: General resource for learning Python 
+  
+  <h3>Tutorials / Articles / Resources</h3>  
+  
+* <a href="http://www.slideshare.net/bgoerler/bringing-the-fun-back-to-seo-with-python" target="_blank" rel="noopener">Bringing the fun back to SEO with Python</a> by Ben Görler (slideshare)
+* <a href="https://importsem.com/use-python-difflib-to-automate-robots-txt-change-detection/" target="_blank" rel="noopener">Use Python Difflib to Detect and Display Robots.txt Changes</a> by Greg Bernhardt
+* 
 
 <h2 id="seo-automation-tools">SEO Automation Tools</h2>
 
