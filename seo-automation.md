@@ -17,22 +17,23 @@ Once you learn what's possible with SEO automation, you'll wonder how you got an
 
 <h2 id="seo-automation-tutorials">SEO Automation tutorials, videos, articles </h2>
 
-* <a href="https://developers.google.com/apps-script/guides/videos">Google Apps Script Video Library</a>
+* <a href="https://developers.google.com/apps-script/guides/videos" target="_blank" rel="noopener">Google Apps Script Video Library</a>
 
 
 
 <h2 id="python-seo">Python for SEO </h2>
 
-* <a href="https://www.searchenginejournal.com/python-seo-data-reference-guide/287927/?utm_source=search_library_joshhinds">How to Use Python to Analyze SEO Data: A Reference Guide</a> By Hamlet Batista
-* <a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a> By Al Sweigart <<-- Josh's Tip: General resource for learning Python 
-* <a href="http://www.slideshare.net/bgoerler/bringing-the-fun-back-to-seo-with-python">Bringing the fun back to SEO with Python</a> (slideshare)
-* <a href="https://importsem.com/use-python-difflib-to-automate-robots-txt-change-detection/">Use Python Difflib to Detect and Display Robots.txt Changes</a>
+* <a href="https://www.searchenginejournal.com/python-seo-data-reference-guide/287927/?utm_source=search_library_joshhinds" target="_blank" rel="noopener">How to Use Python to Analyze SEO Data: A Reference Guide</a> By Hamlet Batista
+* <a href="https://automatetheboringstuff.com" target="_blank" rel="noopener">Automate the Boring Stuff with Python</a> By Al Sweigart <<-- Josh's Tip: General resource for learning Python 
+* <a href="http://www.slideshare.net/bgoerler/bringing-the-fun-back-to-seo-with-python" target="_blank" rel="noopener">Bringing the fun back to SEO with Python</a> (slideshare)
+* <a href="https://importsem.com/use-python-difflib-to-automate-robots-txt-change-detection/" target="_blank" rel="noopener">Use Python Difflib to Detect and Display Robots.txt Changes</a>
+* <a href="https://www.searchenginejournal.com/python-technical-seo/330515/" target="_blank" rel="noopener">An Introduction to Python for Technical SEO</a> (source: Ruth Everett | Search Engine Journal)
 
 
 <h2 id="seo-automation-tools">SEO Automation Tools</h2>
 
-* <a href="https://learningseo.io/seo-tools/">SEO Tools - collection of tools, paid & free</a> (source: LearningSEO) 
-* <a href="https://learningseo.io/implement-with-free-seo-tools/">Collection of Free SEO Tools</a> (source: LearningSEO)
+* <a href="https://learningseo.io/seo-tools/" target="_blank" rel="noopener">SEO Tools - collection of tools, paid & free</a> (source: LearningSEO) 
+* <a href="https://learningseo.io/implement-with-free-seo-tools/" target="_blank" rel="noopener">Collection of Free SEO Tools</a> (source: LearningSEO)
 
 
 <hr>
