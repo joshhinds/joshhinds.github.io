@@ -12,7 +12,7 @@ SEO automation is a big topic. All the ways to automate search engine optimizati
 
 Once you learn what's possible with SEO automation, you'll wonder how you got any work done before.
 
-<h2 id="seo-automation-guides">SEO Automation Guides </h2>
+<!-- <h2 id="seo-automation-guides">SEO Automation Guides </h2> -->
 
 
 <h2 id="seo-automation-tutorials">SEO Automation tutorials, videos, articles </h2>
@@ -33,7 +33,7 @@ Once you learn what's possible with SEO automation, you'll wonder how you got an
   
 * <a href="http://www.slideshare.net/bgoerler/bringing-the-fun-back-to-seo-with-python" target="_blank" rel="noopener">Bringing the fun back to SEO with Python</a> by Ben Görler (slideshare)
 * <a href="https://importsem.com/use-python-difflib-to-automate-robots-txt-change-detection/" target="_blank" rel="noopener">Use Python Difflib to Detect and Display Robots.txt Changes</a> by Greg Bernhardt
-* 
+
 
 <h2 id="seo-automation-tools">SEO Automation Tools</h2>
 
