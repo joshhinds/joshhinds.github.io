@@ -29,7 +29,7 @@ Once you learn what's possible with SEO automation, you'll wonder how you got an
 
 * <a href="https://www.searchenginejournal.com/python-seo-data-reference-guide/287927/?utm_source=search_library_joshhinds" target="_blank" rel="noopener">How to Use Python to Analyze SEO Data: A Reference Guide</a> By Hamlet Batista
 * <a href="https://www.searchenginejournal.com/python-technical-seo/330515/" target="_blank" rel="noopener">An Introduction to Python for Technical SEO</a> By Ruth Everett (source: Search Engine Journal)
-* <a href="https://automatetheboringstuff.com" target="_blank" rel="noopener">Automate the Boring Stuff with Python</a> By Al Sweigart <<-- Josh's Tip: General resource for learning Python 
+* <a href="https://automatetheboringstuff.com" target="_blank" rel="noopener">Automate the Boring Stuff with Python</a> By Al Sweigart <<-- Josh's Tip: Great general resource for learning Python 
   
   <h3>Tutorials / Articles / Resources</h3>  
   
