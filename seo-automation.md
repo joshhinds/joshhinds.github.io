@@ -48,4 +48,4 @@ Jean-Christophe Chouinard
 
 
 <hr>
-Resource maintained by Josh Hinds -- Connect with me on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here)
+* Maintained by Josh Hinds -- Connect with me on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here)
