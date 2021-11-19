@@ -45,5 +45,5 @@ Jean-Christophe Chouinard
 
 
 <hr>
-
-<h5>Maintained by Josh Hinds -- Connect with me on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here)</h5>
+<br /><br />
+Connect with me, <a href="https://www.linkedin.com/in/joshhinds">Josh Hinds on my LinkedIn page</a> (be sure to mention you found me here)
