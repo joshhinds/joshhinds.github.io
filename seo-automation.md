@@ -50,7 +50,11 @@ Jean-Christophe Chouinard
 
 * <a href="https://workeffortwaste.github.io/nojs-side-by-side/" target="_blank" rel="noopener">NoJS Side-by-Side</a> - Displays the current URL with and without JavaScript side by side in the current window.
 
+<h4>Curated lists of SEO Bookmarklets</h4>
 
+* <a href="https://riseatseven.com/blog/seo-bookmarklets/" target="_blank" rel="noopener">SEO Bookmarklets - Rise at Seven</a>
+* <a href="https://cognitiveseo.com/blog/5714/69-amazing-seo-bookmarklets-to-supercharge-your-internet-marketing/" target="_blank" rel="noopener">Cognitive SEO - Bookmarklets collection</a>
+* <a href="https://detailed.com/chrome-bookmarklets-seo/" target="_blank" rel="noopener">Advanced Google Chrome Bookmarklets for SEOs: A Detailed Guide</a>
 
 <hr>
 <br /><br />
