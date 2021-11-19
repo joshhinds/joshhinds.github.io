@@ -12,11 +12,14 @@ SEO automation is a big topic. All the ways to automate search engine optimizati
 
 Once you learn what's possible with SEO automation, you'll wonder how you got any work done before.
 
-<!-- <h2 id="seo-automation-guides">SEO Automation Guides </h2> -->
+<h2 id="seo-automation-guides">SEO Automation Guides </h2> 
+
+* <a href="https://www.jcchouinard.com/regex-in-google-search-console/" target="_blank" rel="noopener">Regular Expressions (RegEx) in Google Search Console</a> by 
+Jean-Christophe Chouinard
 
 
 <h2 id="seo-automation-tutorials">SEO Automation tutorials, videos, articles </h2>
-
+ 
 * <a href="https://developers.google.com/apps-script/guides/videos" target="_blank" rel="noopener">Google Apps Script Video Library</a>
 
 
