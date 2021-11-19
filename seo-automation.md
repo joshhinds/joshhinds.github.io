@@ -46,6 +46,11 @@ Jean-Christophe Chouinard
 * <a href="https://learningseo.io/seo-tools/" target="_blank" rel="noopener">SEO Tools - collection of tools, paid & free</a> (source: LearningSEO) 
 * <a href="https://learningseo.io/implement-with-free-seo-tools/" target="_blank" rel="noopener">Collection of Free SEO Tools</a> (source: LearningSEO)
 
+<h3>Bookmarklets </h3>
+
+* <a href="https://workeffortwaste.github.io/nojs-side-by-side/" target="_blank" rel="noopener">NoJS Side-by-Side</a> - Displays the current URL with and without JavaScript side by side in the current window.
+
+
 
 <hr>
 <br /><br />
