@@ -22,9 +22,6 @@ Jean-Christophe Chouinard
 <h2 id="seo-automation-tutorials">SEO Automation tutorials, videos, articles </h2> -->
  
 
-
-
-
 <h2 id="python-seo">Python for SEO </h2>
 
 <h3> Guides</h3>
@@ -48,4 +45,5 @@ Jean-Christophe Chouinard
 
 
 <hr>
-* Maintained by Josh Hinds -- Connect with me on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here)
+
+<h5>Maintained by Josh Hinds -- Connect with me on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here)</h5>
