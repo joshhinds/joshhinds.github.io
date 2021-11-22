@@ -16,7 +16,7 @@ As you move through the resources included here you will see how broad the topic
 
 <h2 id="on-page-seo-guides">On-Page SEO Guides</h2>
 
-* <ahref="https://terakeet.com/blog/on-page-seo/">On-Page SEO: The Professional Guide to On-Page Optimization</a> (Terakeet)
+* <a href="https://terakeet.com/blog/on-page-seo/">On-Page SEO: The Professional Guide to On-Page Optimization</a> (Terakeet)
 * <a href="https://www.searchenginejournal.com/on-page-seo/">Search Engine Journal: The Complete Guide to On-Page SEO</a>
 * <a href="https://ahrefs.com/blog/on-page-seo/">Ahrefs: On-Page SEO: An Actionable Guide</a>
 
