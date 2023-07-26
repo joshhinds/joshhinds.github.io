@@ -79,10 +79,10 @@ If you work in search engine optimization you know it isn't a matter of just get
 
 * <a href="https://terakeet.com/blog/seo-lead-generation/">SEO Lead Generation: How to Get Leads Through SEO</a>
 
-<h3>Google Algorithm Updates + Other Search Engine Updates</h3>h3>
+<h3>Google Algorithm Updates + Other Search Engine Updates</h3>
 
 * <a href="https://www.searchenginejournal.com/google-algorithm-history/">Listing of Google Algorithm Updates</a> (Search Engine Journal) - Learn all about Google's search algorithm updates. Offers a quick breakdown of each!
-* 
+  
 * <a href="https://www.mariehaynes.com/google-ai-systems/">Google's Helpful Content & Other AI Systems May Be Impacting Your Site's Visibility</a> by Marie Haynes - Explores Google’s Helpful Content update and how to succeed in AI-driven search rankings.
 
 <hr>
