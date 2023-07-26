@@ -7,7 +7,7 @@ description: SEO training resources. Learn all about search engine optimization 
 
 <b>Menu:</b> <a href="/">Home</a> - <a href="technical-seo.html">Technical SEO</a> - <a href="on-page-seo.html">On-Page SEO</a> - <a href="off-page-seo.html">Off-Page SEO</a> - <a href="seo-automation.html">SEO Automation</a>
 <hr>
-<strong>Quick Navigation</strong>: <a href="#seo-training">Begin learning all about SEO</a> | <a href="#seo-guides">SEO Guides</a> | <a href="#seo-fundamentals">SEO Fundamentals</a> | <a href="#Website-authority">Website Authority</a> | <a href="#show-seo-roi">How to Show SEO ROI</a>
+<strong>Quick Navigation</strong>: <a href="#seo-training">Begin learning all about SEO</a> | <a href="#seo-guides">SEO Guides</a> | <a href="#seo-fundamentals">SEO Fundamentals</a> | <a href="#Website-authority">Website Authority</a> | <a href="#show-seo-roi">How to Show SEO ROI</a> | 
 
 # Learn SEO (Search Engine Optimization)
 
@@ -79,6 +79,11 @@ If you work in search engine optimization you know it isn't a matter of just get
 
 * <a href="https://terakeet.com/blog/seo-lead-generation/">SEO Lead Generation: How to Get Leads Through SEO</a>
 
+<h3>Google Algorithm Updates + Other Search Engine Updates</h3>h3>
+
+* <a href="https://www.searchenginejournal.com/google-algorithm-history/">Listing of Google Algorithm Updates</a> (Search Engine Journal) - Learn all about Google's search algorithm updates. Offers a quick breakdown of each!
+* 
+* <a href="https://www.mariehaynes.com/google-ai-systems/">Google's Helpful Content & Other AI Systems May Be Impacting Your Site's Visibility</a> by Marie Haynes - Explores Google’s Helpful Content update and how to succeed in AI-driven search rankings.
 
 <hr>
 Want to connect? Do so on <a href="https://www.linkedin.com/in/joshhinds">my LinkedIn page</a> (be sure to mention you found me here) 
