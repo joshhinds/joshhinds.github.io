@@ -62,6 +62,7 @@ SEO moves fast so you’ll want to go ahead and commit now to making ongoing lea
  * <a href="https://www.stateofdigital.com/javascript-seo-crawling-indexing/">JavaScript and SEO: The Difference Between Crawling and Indexing</a>
  * <a href="https://www.onely.com/blog/rendering-seo-manifesto/">Rendering SEO manifesto – why JavaScript SEO is not enough</a> <<-- Josh's Tip: Read this twice just so the ideas in it sink in :-)
  * <a href="https://developers.google.com/web/fundamentals/performance/critical-rendering-path">Web Fundamentals: Critical Rendering Path</a> (source: Google)
+ * <a href="https://blog.ja.dev/entry/blog/2019/08/07/render-budget-en">Render Budget, or: How I Stopped Worrying and and Learned to Render Server-Side</a> - Summary: Full client-side rendering in Single Page Applications (SPAs) can still negatively impact a site's searchability, particularly for large-scale web services. However, by considering the 'render budget' and optimizing accordingly, owners of such services can improve Google's ability to index their pages effectively.
  
  <h3>Website Migration </h3>
  
