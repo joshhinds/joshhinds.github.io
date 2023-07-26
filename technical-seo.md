@@ -51,7 +51,7 @@ SEO moves fast so you’ll want to go ahead and commit now to making ongoing lea
 
  <h3 id="javascript-seo-rendering">JavaScript SEO and Rendering </h3>
  
- * <a href="https://www.onely.com/blog/ultimate-guide-javascript-seo/">The Ultimate Guide to JavaScript SEO</a> (source: Onely) - Summary: Discusses how search engines handle JavaScript, how to identify JavaScript issues on your website, best practices for JavaScript SEO, and common mistakes to avoid.
+ * <a href="https://www.onely.com/blog/ultimate-guide-javascript-seo/">The Ultimate Guide to JavaScript SEO</a> (source: Onely) - Discusses how search engines handle JavaScript, how to identify JavaScript issues on your website, best practices for JavaScript SEO, and common mistakes to avoid.
  * <a href="https://developers.google.com/search/docs/guides/javascript-seo-basics">Understand the JavaScript SEO basics</a> (source: Google)
  * <a href="https://moz.com/blog/javascript-seo-guide">The Definitive Guide to JavaScript SEO</a> (source: Moz)
  * <a href="https://youtu.be/GdCBkX5mm2U">Javascript: What SEOs need to know</a> (video: Google's John Mueller & Martin Splitt)
