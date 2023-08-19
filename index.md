@@ -1,5 +1,4 @@
 ---
-layout: default
 title: SEO Learning Library - Josh Hinds
 description: Resources to help you learn SEO and organic traffic
 
