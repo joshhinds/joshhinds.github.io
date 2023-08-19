@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Technical SEO Learning Library
 description: Technical SEO Learning Library. Free resources for learning the technical side of search engine optimization. Get started now to begin enhancing your skills!
 
